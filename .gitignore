@@ -1,0 +1,14 @@
+best_resnet18_binary.pth best_resnet18_multi.pth
+best_resnet18_binary.pth best_resnet18_multi.pth
+*.pt
+*.ckpt
+*.npy
+*.dcm
+*.nii
+*.nii.gz
+data/
+dist/
+build/
+*.exe
+__pycache__/
+*.pyc
